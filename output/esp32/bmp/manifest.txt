@@ -1,2 +1,2 @@
 base_url=https://raw.githubusercontent.com/fMarkwardt/fAICalculator/main/output/esp32/bmp/
-images=2025-07-01_21-44-43_solution_1_part1_esp32.bmp,2025-07-01_21-44-43_solution_2_part1_esp32.bmp,2025-07-01_21-44-43_solution_3_part1_esp32.bmp,2025-07-01_21-44-43_solution_4_part1_esp32.bmp
+images=2025-07-01_21-46-05_solution_1_part1_esp32.bmp
